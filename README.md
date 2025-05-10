@@ -7,7 +7,7 @@ Trash Classification Web App 🌍🗑️
 
 Python
 
-Flask – ליצירת שרת צד שרת
+Flask – ליצירת שרת
 
 YOLOv8 – לזיהוי אובייקטים בתמונה
 
