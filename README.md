@@ -15,7 +15,7 @@ YOLOv8 – לזיהוי אובייקטים בתמונה
 
 HTML / CSS / JS – לבניית הממשק
 
-DroidCam – לחיבור מצלמת הטלפון לאתר
+DroidCam – לחיבור מצלמת הטלפון לאתר- אפליקציה חינמית שצריך להוריד בכדי להתחבר למצלמה
 
 איך להריץ את המערכת
 הורידו את הקבצים או שבטו (clone) את הריפוזיטורי.
@@ -41,7 +41,7 @@ trash_classifier_taco_cropped.h5 – מודל סיווג (CNN) מאומן
 
 yolov8n.pt – מודלי YOLOv8 לזיהוי אובייקטים
 
-הריצו את קובץ app_copy.py:
+הריצו את קובץ app_copy.py: שימו לב שאתם משנים את כתובת הIP לכתובת שלכם.
 
 
 python app_copy.py
@@ -62,7 +62,7 @@ CNN model – for trash type classification
 
 HTML/CSS/JS – for building the web interface
 
-DroidCam – for connecting a mobile phone camera to the app
+DroidCam – for connecting a mobile phone camera to the app - a free app you need to download in order to connect the camera
 
 How to Run the Project
 Clone the repository or download it as a ZIP and extract it.
@@ -89,7 +89,7 @@ trash_classifier_taco_cropped.h5 – Trained CNN classifier model
 
 yolov8n.pt – YOLOv8 detection models
 
-Run the Flask app:
+Run the Flask app: make sure you change the IP address to yours
 
 
 python app_copy.py
