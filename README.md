@@ -52,7 +52,9 @@ yolov8n.pt – מודלי YOLOv8 לזיהוי אובייקטים
 python app_copy.py
 היכנסו בדפדפן לכתובת http://127.0.0.1:5000
 
+
 🇬🇧 English Overview
+
 This project is a web-based application for real-time trash classification and detection using computer vision and deep learning.
 It enables users to capture images of trash using their phone camera and instantly receive predictions about the type of waste, helping sort it into the correct recycling bin.
 
