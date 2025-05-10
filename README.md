@@ -111,3 +111,24 @@ Dataset Files: This repository does not include the full datasets and trained mo
 TrashNet.zip - https://drive.google.com/file/d/16hYv82WGZg-vkeaCiR8z_574xvxjaL6v/view
 
 TACO.zip - https://drive.google.com/file/d/1uiuchu3wh1U3eYxQWiyLfjDpZ8I-2sMG/view
+
+
+
+יש לשים לב כי בקוד inference_pipeline_update_copy.py יש נתיבים לקישורים מקומיים. לכן, כדי להריץ את האתר בצורה מיטבית יש ללחוץ על הקישורים הבאים המורידים למחשב את המודלים:
+
+https://drive.google.com/uc?id=1vIIqi_OrwfTcgFP4t6lj-17H-u05id9D
+
+https://drive.google.com/uc?id=1H7asGr2dDOoKYifFS0yao4tmE03CR59O
+
+שימו אותם בספרייה המקומית של הפרויקט שלכם, ותחליפו את השורות בקוד של הקישורים אל הנתיבים החדשים שלכם במקום ששמתם אותו.
+
+
+
+Please note that the inference_pipeline_update_copy.py code contains paths to local links. Therefore, to run the site optimally, click on the following links that download the models to your computer:
+
+https://drive.google.com/uc?id=1vIIqi_OrwfTcgFP4t6lj-17H-u05id9D
+
+https://drive.google.com/uc?id=1H7asGr2dDOoKYifFS0yao4tmE03CR59O
+
+Place them in your project's local directory, and replace the lines with the code for the links to your new paths where you put it.
+
