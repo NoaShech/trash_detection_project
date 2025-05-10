@@ -21,7 +21,7 @@ DroidCam – לחיבור מצלמת הטלפון לאתר- אפליקציה ח�
 איך להריץ את המערכת
 הורידו את הקבצים או שבטו (clone) את הריפוזיטורי.
 
-ודאו ש־Python 3.10 ומעלה מותקן.
+ודאו ש־Python 3.8 ומעלה מותקן.
 
 צרו סביבת פיתוח וירטואלית והפעילו אותה:
 
@@ -76,7 +76,7 @@ DroidCam – for connecting a mobile phone camera to the app - a free app you ne
 How to Run the Project
 Clone the repository or download it as a ZIP and extract it.
 
-Make sure you have Python 3.10+ installed.
+Make sure you have Python 3.8+ installed.
 
 Create and activate a virtual environment (recommended):
 
