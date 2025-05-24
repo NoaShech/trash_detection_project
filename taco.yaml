@@ -1,0 +1,14 @@
+# taco.yaml
+path: C:\Users\User\Desktop\Noa Project\Taco\TACO-master\data\YOLO_dataset  # התיקייה הראשית
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: 'cardboard'
+  1: 'glass'
+  2: 'metal'
+  3: 'other'
+  4: 'paper'
+  5: 'plastic'
+  # אם יש קטגוריות נוספות, יש להוסיף פה
